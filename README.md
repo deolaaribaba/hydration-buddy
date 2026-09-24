@@ -1,16 +1,34 @@
-# React + Vite
+# Hydration Buddy 💧
+> Simple, reliable fluid intake tracking — for **everyone**, not just residents.
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## 🎯 Why I Built This
+Good hydration is the foundation of good health — yet **most of us forget to drink enough water**, and seriously underestimate how much it boosts energy, focus, mood, and wellbeing.
 
-Currently, two official plugins are available:
+As a Care Assistant, I see daily how vital water is — but I also saw: busy staff, families, students, and people at work all struggling the same way. This app is for **everybody** — simple, quick, and helpful for anyone wanting to stay healthy.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
+- ✅ Log daily fluid intake with simple clicks
+- ✅ Personal daily target & visual progress bar
+- ✅ History view to spot patterns & build habits
+- ✅ Runs in any browser — works on phones, tablets, laptops
+- ✅ Clean, fast interface — no clutter, no confusion
 
-## React Compiler
+## 🛠️ Built With
+- HTML5 — Page structure & content
+- CSS3 — Clean, responsive styling
+- JavaScript — All logic, calculations & display
+- VS Code — Development environment
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📂 How to Use
+- Download or open the files
+- Double-click `index.html` to run in any browser
+- Or open in VS Code → use Live Server extension
 
-## Expanding the Oxlint configuration
+## 🚀 Future Improvements
+- [ ] Save your data between sessions
+- [ ] Weekly/monthly progress reports
+- [ ] Gentle reminder notifications
+- [ ] Personalised goals based on your profile
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+*Built by Adeola Aribaba — Building tools that help everyone thrive* 💙
